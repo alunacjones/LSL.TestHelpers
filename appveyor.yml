@@ -35,7 +35,7 @@ artifacts:
 deploy:
 - provider: NuGet
   on:
-    branch: master
+    branch: main
   api_key: $(MY_NUGET_API_KEY)
 skip_commits:
   files:
