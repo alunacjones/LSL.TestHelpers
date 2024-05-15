@@ -4,4 +4,4 @@
 
 # LSL.TestHelpers
 
-Provide package documentation here.
+A slightly opinionated library to provide test runners that are orientated towards integration testing.
